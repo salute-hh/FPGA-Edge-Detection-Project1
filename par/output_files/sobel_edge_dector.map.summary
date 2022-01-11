@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 11 16:50:45 2022
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : sobel_edge_dector
+Top-level Entity Name : sobel_edge_dector
+Family : Cyclone IV E
+Total logic elements : 4,873
+    Total combinational functions : 3,825
+    Dedicated logic registers : 2,502
+Total registers : 2502
+Total pins : 97
+Total virtual pins : 0
+Total memory bits : 313,384
+Embedded Multiplier 9-bit elements : 8
+Total PLLs : 1

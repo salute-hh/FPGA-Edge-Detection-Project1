@@ -1,0 +1,11 @@
+
+State Machine - |ov5640_rgb565_1024x768_vga|i2c_dri:u_i2c_dri|cur_state
+Name cur_state.st_stop cur_state.st_data_rd cur_state.st_addr_rd cur_state.st_data_wr cur_state.st_addr8 cur_state.st_addr16 cur_state.st_sladdr cur_state.st_idle 
+cur_state.st_idle 0 0 0 0 0 0 0 0 
+cur_state.st_sladdr 0 0 0 0 0 0 1 1 
+cur_state.st_addr16 0 0 0 0 0 1 0 1 
+cur_state.st_addr8 0 0 0 0 1 0 0 1 
+cur_state.st_data_wr 0 0 0 1 0 0 0 1 
+cur_state.st_addr_rd 0 0 1 0 0 0 0 1 
+cur_state.st_data_rd 0 1 0 0 0 0 0 1 
+cur_state.st_stop 1 0 0 0 0 0 0 1 
